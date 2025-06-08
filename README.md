@@ -50,20 +50,3 @@ https://drive.google.com/file/d/1CfUsDYkqJJHDdLBeQGTVSGL6se4KPWHH/view?usp=drive
    python main.py
    ```
 
-## 📚 Documentation
-
-- [User Guide](docs/user_guide.md)
-- [API Reference](docs/api_reference.md)
-- [Model Details](docs/model_details.md)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open issues or pull requests for improvements or new features.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-*Empower your investment decisions with AI-driven insights!*
