@@ -32,7 +32,7 @@ StockPricePrediction is an advanced tool leveraging Artificial Intelligence to f
 
 ## 📊 Sample Visualization
 
-![Sample Output Chart](docs/sample_prediction.png)
+https://drive.google.com/file/d/1CfUsDYkqJJHDdLBeQGTVSGL6se4KPWHH/view?usp=drivesdk
 
 ## 🔧 Getting Started
 
