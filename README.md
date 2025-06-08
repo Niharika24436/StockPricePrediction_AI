@@ -23,6 +23,7 @@ StockPricePrediction is an advanced tool leveraging Artificial Intelligence to f
 - Data Sourcing: yfinance, Alpha Vantage API
 
 ##You can find the dataset via the link below
+
 https://www.kaggle.com/datasets/tarunpaparaju/apple-aapl-historical-stock-data?utm_source=chatgpt.com
 
 ## 📈 Example Workflow
