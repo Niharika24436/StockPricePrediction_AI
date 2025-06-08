@@ -24,7 +24,7 @@ StockPricePrediction is an advanced tool leveraging Artificial Intelligence to f
 
 ##You can find the dataset via the link below
 
-https://www.kaggle.com/datasets/tarunpaparaju/apple-aapl-historical-stock-data?utm_source=chatgpt.com
+https://www.kaggle.com/datasets/tarunpaparaju/apple-aapl-historical-stock-data
 
 ## 📈 Example Workflow
 
