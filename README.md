@@ -66,7 +66,7 @@ cd src
 
 python app.py
 
-✅ A link will appear (like http://127.0.0.1:7860) — open it in your browser
+✅ A link will appear — open it in your browser
 
 Choose days using slider and click Submit to get the predicted prices in a table
 
