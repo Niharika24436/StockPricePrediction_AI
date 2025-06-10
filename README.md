@@ -42,33 +42,34 @@ https://drive.google.com/file/d/1CfUsDYkqJJHDdLBeQGTVSGL6se4KPWHH/view?usp=drive
 ## 🔧 How it Runs:
 
 1. Clone this repository:
-   ```bash
+   
    git clone https://github.com/yourusername/StockPricePrediction.git
    cd StockPricePrediction
-   ```
+  
 2. Install dependencies:
-   ```bash
+
    pip install -r requirements.txt
-   ```
+ 
 3. Run the application:
-   ```bash
+  
    python StockPricePrediction.py
-   ```
+   
    --A graph will be displayed showing Predicted vs Actual stock prices
    
 5. To Get the Gradio UI Output (prediction via web app):
+   
    Navigate to src/ folder:
 
-'''bash
 cd src
-'''
+
 6. Run the Gradio app:
-'''bash
+
 python app.py
-'''
+
 ✅ A link will appear (like http://127.0.0.1:7860) — open it in your browser
 
 Choose days using slider and click Submit to get the predicted prices in a table
+
 
 ## Screenshots
 
