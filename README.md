@@ -18,7 +18,8 @@ StockPricePrediction is an advanced tool leveraging Artificial Intelligence to f
 
 - Python 3.x
 - Machine Learning Libraries: TensorFlow, Keras, PyTorch, Scikit-learn
-- Data Handling: Pandas, NumPy
+- Data Handling: Pandas, NumPy(pip install numpy)
+- OpenCV(pip install opencv-python)
 - Visualization: Matplotlib, Plotly, Seaborn
 - Data Sourcing: yfinance, Alpha Vantage API
 
@@ -38,7 +39,7 @@ https://www.kaggle.com/datasets/tarunpaparaju/apple-aapl-historical-stock-data
 
 https://drive.google.com/file/d/1CfUsDYkqJJHDdLBeQGTVSGL6se4KPWHH/view?usp=drivesdk
 
-## 🔧 Getting Started
+## 🔧 How it Runs:
 
 1. Clone this repository:
    ```bash
@@ -51,6 +52,38 @@ https://drive.google.com/file/d/1CfUsDYkqJJHDdLBeQGTVSGL6se4KPWHH/view?usp=drive
    ```
 3. Run the application:
    ```bash
-   python main.py
+   python StockPricePrediction.py
    ```
+   --A graph will be displayed showing Predicted vs Actual stock prices
+   
+5. To Get the Gradio UI Output (prediction via web app):
+   Navigate to src/ folder:
+
+'''bash
+cd src
+'''
+6. Run the Gradio app:
+'''bash
+python app.py
+'''
+✅ A link will appear (like http://127.0.0.1:7860) — open it in your browser
+
+Choose days using slider and click Submit to get the predicted prices in a table
+
+## Screenshots
+
+
+![Screenshot 2025-06-08 173753](https://github.com/user-attachments/assets/07f40715-6bdc-44ab-8c13-8b1931fd99ac)
+
+![Screenshot 2025-06-10 233620](https://github.com/user-attachments/assets/c2633a99-953c-403d-84b5-12311e45b7d5)
+
+![Screenshot 2025-06-10 233558](https://github.com/user-attachments/assets/e9829226-0d4c-481b-82b4-6c7f5a9aeb8b)
+
+## Created by
+Niharika Dharmana - CSE[AI & ML]
+
+
+
+
+
 
